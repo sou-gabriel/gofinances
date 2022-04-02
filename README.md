@@ -38,7 +38,7 @@ Projeto desenvolvido durante o Chapter II da trilha de React Native do bootcamp 
 ```bash
 
 # Passo 1: Clone este repositório
-$ git clone git@github.com:sou-gabriel/gofinances.git
+$ git clone git@github.com:sou-gabriel/ignite-gofinances.git
 
 # Passo 2: Acese a pasta do projeto no seu terminal
 $ cd gofinances
